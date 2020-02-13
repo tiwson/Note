@@ -3,6 +3,7 @@ package com.tiwson.singleton;
 /**
  * 饿汉单例模式
  * 一般单例模式使用这款就可以
+ * 常用模式
  */
 public class HungrySingleton {
     //静态单例

@@ -4,8 +4,9 @@ package com.tiwson.singleton;
  * 懒汉单例模式
  */
 public class LazySingletonSecure {
-    //定义LazySingleton私有实例参数；
-    private static LazySingletonSecure instance;
+    //定义LazySingleton私有实例参数
+    //需要添加volatile，为了防止指令重排问题；
+    private static volatile LazySingletonSecure instance;
     //构建一个私有的构造函数；
     private LazySingletonSecure() {
 
