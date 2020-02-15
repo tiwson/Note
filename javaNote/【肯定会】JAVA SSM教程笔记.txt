@@ -1,4 +1,4 @@
-【肯定会】JAVA SSM教程笔记
+﻿【肯定会】JAVA SSM教程笔记
 https://space.bilibili.com/7028047/channel/detail?cid=40223
 
 一、架构
@@ -45,6 +45,8 @@ b、缺点：
 - git status 查看状态
 - git add 将文件添加到git仓库的暂存区
 - git commit 将添加到暂存区的文件提交到git仓库
+- git reflog 查看命令操作的历史，可以查到版本id
+- git reset --hard ID  根据id回退到指定的版本，id为回到版本id
 - git log 查看日志
 - git branch 查看当前的分支
 - git branch A 创建一个叫做“A”的分支
@@ -54,8 +56,12 @@ b、缺点：
 - git clone 克隆代码到本地
 - git config 配置信息
 - git push 将本地代码推送到github等服务器上去
+- git push origin 分支名 --force 强制推送代码到远程服务器分支上去
 - git pull 将远程的代码更新下来
-- git merge 合并分支
+- git merge 合并分支（推荐，两个不同分支合并推荐用）
+- git rebase 合并分支（不推荐，同一分支远程和本地合并可以用）
+
+
 
 4、Github
 
