@@ -2,25 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf966084-21a1-4a58-9763-4f9fcb0c3f46" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/CarFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Creatable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/PlaneFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/SimpleFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Ak47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Factory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/LeganFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MagicStick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/ModernFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MushRoom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Susi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/CarFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Creatable.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Plane.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/PlaneFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/SimpleFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Ak47.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Factory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Food.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/LeganFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MagicStick.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/ModernFactory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MushRoom.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Susi.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Weapon.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/EnumSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/HungrySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/InnerClassSingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/LazySingleton.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/LazySingletonSecure.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/tiwson/singleton/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +124,7 @@
       <workItem from="1581695022765" duration="407000" />
       <workItem from="1581695477851" duration="589000" />
       <workItem from="1581832942859" duration="93000" />
-      <workItem from="1581833038546" duration="2349000" />
+      <workItem from="1581833038546" duration="4537000" />
     </task>
     <servers />
   </component>
