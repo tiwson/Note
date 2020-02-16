@@ -2,7 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf966084-21a1-4a58-9763-4f9fcb0c3f46" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Creatable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/PlaneFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/SimpleFactory/SimpleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Ak47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Factory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Food.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/LeganFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MagicStick.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/ModernFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/MushRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Susi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/tiwson/factory/abstractFactory/Weapon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +31,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -25,6 +44,7 @@
     <ConfirmationsSetting value="2" id="添加" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -41,7 +61,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main (1)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tiwson.factory.SimpleFactory.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiwson.factory.SimpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.tiwson.singleton.Main" />
       <module name="设计模式" />
@@ -52,6 +85,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -69,6 +107,8 @@
       <workItem from="1581694229102" duration="786000" />
       <workItem from="1581695022765" duration="407000" />
       <workItem from="1581695477851" duration="589000" />
+      <workItem from="1581832942859" duration="93000" />
+      <workItem from="1581833038546" duration="2349000" />
     </task>
     <servers />
   </component>
