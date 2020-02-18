@@ -2,28 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf966084-21a1-4a58-9763-4f9fcb0c3f46" name="默认更改列表" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/facade/FacadeModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/facade/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/facade/Model.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/facade/ModelImplements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_3_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/Cake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/CakeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/CheeseCake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/FlowerCakeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/tiwson/decorator/NutCakeDecorator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/EnumSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/HungrySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/InnerClassSingleton$InnerClassHolder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/InnerClassSingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/LazySingleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/LazySingletonSecure.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/设计模式/com/tiwson/singleton/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/设计模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tiwson/facade/FacadeModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tiwson/facade/FacadeModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/tiwson/facade/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/tiwson/facade/Main.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +47,11 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.tiwson.decorator" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -72,13 +64,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.tiwson.factory.SimpleFactory.Main" />
       <module name="设计模式" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.tiwson.factory.SimpleFactory.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.tiwson.decorator.Main" />
+      <module name="设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.tiwson.decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,6 +118,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
@@ -139,6 +145,7 @@
       <workItem from="1581833038546" duration="4537000" />
       <workItem from="1581927741336" duration="49000" />
       <workItem from="1581994104584" duration="2005000" />
+      <workItem from="1582015671982" duration="1524000" />
     </task>
     <servers />
   </component>
